@@ -2,7 +2,7 @@ name: Gradle Test Workflow
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "maste" ]
   pull_request:
     branches: [ "main" ]
 
