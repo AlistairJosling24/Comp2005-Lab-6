@@ -14,5 +14,6 @@ class MessageTest {
         String actual = Message.getMessage();
 
         assertEquals(actual, expected);
+        //workflow test
     }
 }
